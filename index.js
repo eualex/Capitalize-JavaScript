@@ -10,10 +10,6 @@ const capitalize = ( s, count = 0 ) => {
         return '';
     } else {
         if(s!=undefined) return s.charAt(0).toUpperCase().concat(s.slice(1).toLowerCase());
-
         return '';
     }
 }
-
-
-
