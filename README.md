@@ -1,2 +1,3 @@
 # Capitalize-JavaScript
-Um pequeno método que deixa uma ou mais strings capitalizadas! 
+
+A small method designed to leave one or more capitalized strings!
